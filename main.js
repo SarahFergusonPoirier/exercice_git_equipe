@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Sarah Ferguson-Poirier
 console.log("test")
 
